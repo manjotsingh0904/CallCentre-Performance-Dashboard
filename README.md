@@ -108,8 +108,8 @@ This project strengthened my ability to:
 
 ![Call Centre Dashboard](Dashboard/Operational_Efficiency.png)
 ![Call Centre Dashboard](Dashboard/Customer_Experience.png)
-![Call Centre Dashboard](Dashboard/Agent_Performace.png)
-![Call Centre Dashboard](Dashboard/Unanswered_Calls_Analyis.png)
+![Call Centre Dashboard](Dashboard/Agent_Performance.png)
+![Call Centre Dashboard](Dashboard/Unanswered_Calls_Analysis.png)
 ![Call Centre Dashboard](Dashboard/Product_Analysis.png)
 ![Call Centre Dashboard](Dashboard/Summary.png)
 ![Call Centre Dashboard](Dashboard/Recommendations.png)
